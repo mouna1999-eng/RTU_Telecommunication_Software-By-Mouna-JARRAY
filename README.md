@@ -17,9 +17,13 @@ https://github.com/mouna1999-eng/RTU_Telecommunication_Software-By-Mouna-JARRAY/
 ##Week_6
 
 Installation Python extension on Visual Studio Code
+
 Installation of Flask
+
 doing some examples and tests using this website : https://flask.palletsprojects.com/en/1.1.x/
+
 Trying to Create Web APIs with Python and Flask using this website : https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask
 
 ##Week_7
+
 Tutorial "socket programming" From The Real Python Website : https://realpython.com/
