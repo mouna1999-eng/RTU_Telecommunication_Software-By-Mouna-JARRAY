@@ -30,3 +30,11 @@
 #Week_7
 
    * Tutorial "socket programming" From The Real Python Website : https://realpython.com/
+   
+#Week_8
+
+   * Tutorial " Java socket programming" using this Website : https://www.javatpoint.com/socket-programming
+   
+#Week_9
+
+   * Tutorial in order to understand the concept of GRASP "How to GRASP with Java" using this Website : http://www.kamilgrzybek.com/design/grasp-explained/
