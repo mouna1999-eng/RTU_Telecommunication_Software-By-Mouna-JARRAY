@@ -43,6 +43,7 @@
    
 #Week_11  
 
+   * learning the Intellij IDEA + tutorial 
    * Spring Boot Tutorial
    
 #Week_12
