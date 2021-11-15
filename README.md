@@ -35,3 +35,16 @@
 #Week_9
 
    * Tutorial in order to understand the concept of GRASP "How to GRASP with Java" using this Website : http://www.kamilgrzybek.com/design/grasp-explained/
+   
+#Week_10
+   
+   * Exploration of elegant objects book 
+   * learning how to create elegant objects with java
+   
+#Week_11  
+
+   * Spring Boot Tutorial
+   
+#Week_12
+   
+   * RESET application deployed on Heroku
