@@ -51,5 +51,18 @@
    * RESET application deployed on Heroku
 
 #Week_13
+ 
+   * Deploying Spring Boot Applications to Heroku
+   * Securing Apps using OKTA OIDC
+   * Auth zero
+   * AWS - COGNITO
+   
+#Week_14 : no class
+#Week_15 : introduction to new part
 
-           Loading ...
+#Week_16 : 
+
+   * installation of Snoopy 
+   * Getting start with Snoopy
+
+      
