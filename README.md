@@ -64,5 +64,6 @@
 
    * installation of Snoopy 
    * Getting start with Snoopy
+   * Petri Nets
 
       
